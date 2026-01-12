@@ -153,10 +153,6 @@ python scripts/get_vendor_summary.py
 - Improve marketing for underperforming vendors
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
-Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+
+
